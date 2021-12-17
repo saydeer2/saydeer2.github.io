@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air", "aqua"
+minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "ko"
-title                    : "c 프로그래밍"
+title                    : "C 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김승겸"
 description              : "시스템 프로그램을 위한 c언어"
-url                      : # the base hostname & protocol for your site e.g. "https://sgkim.github.io"
+url                      : "https://sgkim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "saydeer2/sgkim.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
